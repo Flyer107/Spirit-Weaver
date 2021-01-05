@@ -7,6 +7,6 @@ Install [python3](https://www.python.org/downloads/)
 ## Usage
 
 ## Contribute
-KoCkocobB
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
